@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//d/project/HR데이터/matlab/**)",
+      "Read(//d/project/HR데이터/**)",
+      "mcp__ide__executeCode",
+      "Bash(matlab:*)",
+      "Read(//d/project/matlab_runlog//**)",
+      "Bash(start matlab -automation -r \"cd(''D:\\project\\HR데이터\\matlab''); run(''claude_code/data_investigation.m'');\" -wait)",
+      "Bash(dir)",
+      "Bash(dir:*)",
+      "Bash(cd:*)",
+      "Bash(find:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

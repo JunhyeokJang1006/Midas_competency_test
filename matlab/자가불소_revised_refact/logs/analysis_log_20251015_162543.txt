@@ -1,0 +1,9 @@
+========================================
+  Analysis Log
+  Start Time: 2025-10-15 16:25:43
+========================================
+
+[2025-10-15 16:25:43] [INFO   ] Logger test started
+[2025-10-15 16:25:43] [INFO   ] Data loaded: 100 records
+[2025-10-15 16:25:43] [DEBUG  ] Processing item 1 of 10
+[2025-10-15 16:25:43] [WARNING] Missing value detected

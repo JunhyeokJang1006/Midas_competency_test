@@ -1,0 +1,4 @@
+file = 'C:/Users/MIDASIT/Downloads/23년 상반기 문항정보 1.xlsx';
+tbl = readtable(file, 'Sheet', 'Sheet2', 'VariableNamingRule', 'preserve');
+disp(tbl.Properties.VariableNames);
+disp(tbl(1:min(5,height(tbl)), :));
