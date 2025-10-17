@@ -1,0 +1,25 @@
+HR 역량 분석 요약 보고서
+생성일시: 23-Sep-2025 11:40:50
+================================
+
+1. 데이터 개요
+- 분석 대상: 10명
+- 역량 수: 10개
+
+2. 최적 모델
+- 최적 방법: Logistic
+- AUC: 0.500
+
+3. 통계적 유의성
+- Correlation: p-value = NaN
+- Logistic: p-value = 1.0000
+- Bootstrap: p-value = NaN
+- Ttest: p-value = NaN
+- Ensemble: p-value = NaN
+
+4. 주요 역량 (상관계수 기준)
+- 긍정성: r = NaN (p = NaN)
+- 적극성: r = NaN (p = NaN)
+- 전략성: r = NaN (p = NaN)
+- 성실성: r = NaN (p = NaN)
+- 사회성: r = NaN (p = NaN)
